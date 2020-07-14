@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#/#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:melon"
+    },
+    "/": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "food_swords:melon_sword"
+  }
+}
