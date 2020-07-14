@@ -11,6 +11,9 @@ public enum FoodSwordTiers implements IItemTier {
     MELON(71, 1.0F, 0.0F, 0, 15, () -> {
         return Ingredient.fromItems(Items.MELON_SLICE);
     }),
+    COOKIE(66, 0.5F, -0.5F, 0, 20, () -> {
+        return Ingredient.fromItems(Items.COOKIE);
+    })
     ;
 
     int maxUses;

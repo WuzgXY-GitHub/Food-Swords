@@ -1,3 +1,6 @@
 {
-  "item.food_swords.melon_sword": "Melon Sword"
+  "itemGroup.food_swords": "Food Swords",
+
+  "item.food_swords.melon_sword": "Melon Sword",
+  "item.food_swords.cookie_sword": "Cookie Sword"
 }
